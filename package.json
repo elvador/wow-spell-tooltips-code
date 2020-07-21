@@ -2,7 +2,7 @@
 	"name": "wow-spell-tooltips",
 	"displayName": "WoW Spell Tooltips",
 	"description": "Display World of Warcraft spell data in Visual Studio Code",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"publisher": "elvador",
 	"repository": "elvador/wow-spell-tooltips-code",
 	"license": "MIT",
